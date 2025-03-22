@@ -1,6 +1,8 @@
 # MiscDocs_PPGCC
 
-- [Regimento Geral](<https://www2.ufmg.br/sods/Sods/Sobre-a-UFMG/Regimento-Geral>)
+- [Regimento Geral][Link_Regimento]
+
+[Link_Regimento]: <https://www2.ufmg.br/sods/Sods/Sobre-a-UFMG/Regimento-Geral>
 
 ## Dúvidas
 
@@ -11,15 +13,19 @@
 
 ### Onde ver as notas?
 
-- [SistemasUFMG](https://sistemas.ufmg.br/iapWeb/historico/historicoescolar/consultar/consultarHistoricoEscolar.do)
+- [SistemasUFMG][Historico-SistemasUFMG]
 - minhaUFMG -> Aluno -> Acesse suas notas e frequência no Diário de Classe
 - Moodle
+
+[Historico-SistemasUFMG]: <https://sistemas.ufmg.br/iapWeb/historico/historicoescolar/consultar/consultarHistoricoEscolar.do>
 
 ### Onde selecionar as disciplinas?
 
 - Ver:
-  - [Sistemas.ufmg](https://sistemas.ufmg.br/iapWeb/matricula/ofertadeatividade/pesquisarturma/solicitarOfertaAtividade.do)
-  - [PPGCC](https://ppgcc.dcc.ufmg.br/?s=oferta)
+  - [Sistemas.ufmg][Ofertas-SistemasUFMG]
+  - [Oferta de disciplinas - PPGCC](https://ppgcc.dcc.ufmg.br/?s=oferta)
+
+[Ofertas-SistemasUFMG]: <https://sistemas.ufmg.br/iapWeb/matricula/ofertadeatividade/pesquisarturma/solicitarOfertaAtividade.do>
 
 ## Observações
 
