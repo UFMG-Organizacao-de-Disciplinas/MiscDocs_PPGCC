@@ -27,6 +27,16 @@
 
 [Ofertas-SistemasUFMG]: <https://sistemas.ufmg.br/iapWeb/matricula/ofertadeatividade/pesquisarturma/solicitarOfertaAtividade.do>
 
+### O que fazer depois de enviar a dissertação?
+
+- > Gente, depois que a gente envia a versão final da dissertação tem mais alguma etapa? Quanto tempo demora até a titulação?
+- > Se você já defendeu e já enviou, você já é mestre//O tempo é do certificado
+
+### Por onde enviar a versão final?
+
+- > qual é o caminho para enviar a versão final? N fiz isso ainda… e vc sabe o prazo que tem para enviar?
+- > Eu mandei pro e-mail do PPGCC com meu orientador em cópia//Mas não sei se tem prazo, viu
+
 ## Observações
 
 - Mensagem de Paulo Alvarenga 27/02/2025:
