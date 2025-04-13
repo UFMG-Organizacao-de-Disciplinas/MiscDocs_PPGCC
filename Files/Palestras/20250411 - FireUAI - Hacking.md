@@ -120,7 +120,7 @@ No geral, todos os times aprendem sobre tudo, porém, o que muda é quem faz o q
 - Ler soluções (writeups)
 - Jogar em Equipe
 
-## Let's Hack!
+## Let's Hack
 
 - 3 desafios
   - Web: Nata (?)
