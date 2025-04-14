@@ -55,7 +55,7 @@
 | **Synergia**  | Laboratório de Engenharia de Software e Sistemas                                  | Geraldo Robson Mateus; Clarindo Isaias Padua                                                                                                                                                                                                                                                                                 |
 | **T-REX**     | Theory Expertise Laboratory                                                       | Gabriel Coutinho; Guilherme Gomes; Haniel Moreira Barbosa; Jeroen van de Graaf; Marcio Costa Santos; Mário Sérgio Alvim; Vinicius Fernandes dos Santos                                                                                                                                                                       |
 | **Uai Lab**   | Uncertainty in Artificial Intelligence Lab                                        | Flavio de Figueiredo; Renato Martins Assunção; Pedro Olmo Stancioli Vaz de Melo; William Robson Schwartz                                                                                                                                                                                                                     |
-| **VeRLab**    | Laboratório de Visão Computacional e Robótica                                     | Mario Fernando; Luiz Chaimowicz; Erickson Rangel; Douglas Macharet; Luiz Filipe Menezes; Marcos Menezes; Omar Neto                                                                                                                                                                                                           |
+| **VeRLab**    | Laboratório de Visão Computacional e Robótica                                     | Mario Fernando Montenegro Campos; Luiz Chaimowicz; Erickson Rangel; Douglas Macharet; Luiz Filipe Menezes; Marcos Menezes; Omar Neto                                                                                                                                                                                                           |
 | **VoD**       | Laboratório de Vídeo Sob Demanda                                                  | Sérgio Vale Aguiar Campos                                                                                                                                                                                                                                                                                                    |
 | **WiNet**     | Laboratório de Wireless Networks                                                  | José Marcos Silva Nogueira; Aldri Luiz dos Santos; Daniel Fernandes Macedo; Ítalo Fernando Scotá Cunha; Luiz Filipe Menezes Vieira; Marcos Augusto Menezes Vieira; Jeroen van de Graaf; Michele Nogueira Lima                                                                                                                |
 | **WISEMAP**   |                                                                                   | Antonio Loureiro; Frederico Gadelha Guimarães; Heitor Soares; Ítalo Scotá; João Guilherme; Leonardo Barbosa; Luiz Menezes; Marcos Menezes; Marcelo Azevedo Costa; Martín Gómez Ravetti; Olga Nikolaevna; Pedro Olmo                                                                                                          |
@@ -223,19 +223,6 @@
 
 <!-- ### Site -->
 
-[LinkDCCRen]: <https://ppggoc.eci.ufmg.br/equipe/renato-rocha-souza>
-[LinkDCCAdr]: <https://homepages.dcc.ufmg.br/~adrianov>
-[LinkDCCRod]: <https://homepages.dcc.ufmg.br/~rodrygo/research.html>
-[LinkDCCPed]: <https://www.dcc.ufmg.br/~olmo>
-[LinkDCCAni]: <https://www.dcc.ufmg.br/~anisio>
-[LinkDCCBer]: <https://homepages.dcc.ufmg.br/~berthier>
-[LinkDCCFla]: <https://homepages.dcc.ufmg.br/~flaviovdf>
-[LinkDCCGeo]: <https://homepages.dcc.ufmg.br/~george>
-[LinkDCCGis]: <https://homepages.dcc.ufmg.br/~glpappa>
-[LinkDCCNiv]: <https://homepages.dcc.ufmg.br/~nivio/en/index.php>
-[LinkDCCLoi]: <https://homepages.dcc.ufmg.br/~lcerf/en/index.html>
-[LinkDCCWag]: <https://homepages.dcc.ufmg.br/~meira/DokuWiki/wiki>
-[LinkDCCMar]: <https://homepages.dcc.ufmg.br/~mgoncalv>
 
 [Site_AdriV]: <https://homepages.dcc.ufmg.br/~adrianov>
 [Site_AdriC]: <https://homepages.dcc.ufmg.br/~adrianoc>
@@ -452,16 +439,8 @@
 
 [LinkLattesRen]: <http://lattes.cnpq.br/|4726|9496|9797|3381>
 [LinkLattesAdr]: <http://lattes.cnpq.br/|9973|0219|1222|6739>
-[LinkLattesRod]: <http://lattes.cnpq.br/|1162|3626|2407|9364>
 [LinkLattesPed]: <http://lattes.cnpq.br/|3262|9261|6457|9789>
-[LinkLattesAni]: <http://lattes.cnpq.br/|2034|6074|2221|0997>
-[LinkLattesBer]: <http://lattes.cnpq.br/|5461|0691|6731|4414>
 [LinkLattesFla]: <http://lattes.cnpq.br/|9481|2103|9330|4645>
-[LinkLattesGeo]: <http://lattes.cnpq.br/|6732|9401|6242|3405>
-[LinkLattesGis]: <http://lattes.cnpq.br/|5936|6823|3570|1497>
-[LinkLattesNiv]: <http://lattes.cnpq.br/|3527|1978|0927|6361>
-[LinkLattesLoi]: <http://lattes.cnpq.br/|1425|4578|5761|8919>
-[LinkLattesWag]: <http://lattes.cnpq.br/|9092|5872|3711|4334>
 [LinkLattesMar]: <http://lattes.cnpq.br/|3457|2196|2465|6691>
 
 [Lattes_AdriV]: <http://lattes.cnpq.br/>
