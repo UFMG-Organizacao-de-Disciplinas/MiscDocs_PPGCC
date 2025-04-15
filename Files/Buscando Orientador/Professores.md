@@ -223,7 +223,6 @@
 
 <!-- ### Site -->
 
-
 [Site_AdriV]: <https://homepages.dcc.ufmg.br/~adrianov>
 [Site_AdriC]: <https://homepages.dcc.ufmg.br/~adrianoc>
 [Site_Alber]: <https://homepages.dcc.ufmg.br/~laender>
