@@ -42,3 +42,10 @@
 - Mensagem de Paulo Alvarenga 27/02/2025:
   - dá pra aproveitar estágio em docência 1 feito no mestrado e conseguir a dispensa do estágio em docência 2 por ter experiência docente.
   - No caso, o aproveitamento de estágio 1 vem dentro do limite de créditos, como se fosse disciplina, e a dispensa de estágio em docência 2 é feita em formulário próprio.
+
+## Certificação de inglês
+
+- Carlos Lage
+  > Na aula inaugural da minha turma de mestrado, informaram que os alunos que entraram com comprovações de proficiência tipo certificado de escola de inglês, declaração de professor de inglês ou outros comprovantes que não fossem um certificado válido, tinham 1 ano a partir da entrada para apresentar um certificado válido e regularizar a situação.
+  > A prova do CENEX foi a melhor opção que encontrei pelo custo e conteúdo focado por especialidade, ela é específica de acordo com a área que você selecionou no ato da inscrição.
+  > O ponto de atenção é que não ocorre todo mês, me parece que é 4 vezes ao ano, precisa confirmar ...
