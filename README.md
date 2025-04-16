@@ -2,7 +2,7 @@
 
 - [Regimento Geral][Link_Regimento]
 
-[Link_Regimento]: <https://www2.ufmg.br/sods/Sods/Sobre-a-UFMG/Regimento-Geral>
+[Link_Regimento]: https://www2.ufmg.br/sods/Sods/Sobre-a-UFMG/Regimento-Geral
 
 ## Dúvidas
 
@@ -17,7 +17,7 @@
 - minhaUFMG -> Aluno -> Acesse suas notas e frequência no Diário de Classe
 - Moodle
 
-[Historico-SistemasUFMG]: <https://sistemas.ufmg.br/iapWeb/historico/historicoescolar/consultar/consultarHistoricoEscolar.do>
+[Historico-SistemasUFMG]: https://sistemas.ufmg.br/iapWeb/historico/historicoescolar/consultar/consultarHistoricoEscolar.do
 
 ### Onde selecionar as disciplinas?
 
@@ -25,7 +25,7 @@
   - [Sistemas.ufmg][Ofertas-SistemasUFMG]
   - [Oferta de disciplinas - PPGCC](https://ppgcc.dcc.ufmg.br/?s=oferta)
 
-[Ofertas-SistemasUFMG]: <https://sistemas.ufmg.br/iapWeb/matricula/ofertadeatividade/pesquisarturma/solicitarOfertaAtividade.do>
+[Ofertas-SistemasUFMG]: https://sistemas.ufmg.br/iapWeb/matricula/ofertadeatividade/pesquisarturma/solicitarOfertaAtividade.do
 
 ### O que fazer depois de enviar a dissertação?
 
