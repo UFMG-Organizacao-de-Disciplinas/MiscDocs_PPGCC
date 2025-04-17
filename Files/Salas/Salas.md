@@ -1,6 +1,5 @@
 # Lab
 
-
 Salas do DCC no ICEx
 
 - 2011 - Aula Prática
@@ -9,7 +8,7 @@ Salas do DCC no ICEx
 - 2020 - Laboratório de acesso livre - Linux - Seg a Sex; 8h às 22h
 - 2021 - Laboratório de acesso livre - Mac e Linux, acesso a internet cabeada - Seg a Sex; 8h às 22h
 - 2022 - Laboratório de acesso livre - W10 - Seg a Sex; 8h às 22h
-- 3004 - Sala da pós graduação - Senha: *0330p
+- 3004 - Sala da pós graduação - Senha: \*0330p
 
 ## Salas
 
