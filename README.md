@@ -37,6 +37,14 @@
 - > qual é o caminho para enviar a versão final? N fiz isso ainda… e vc sabe o prazo que tem para enviar?
 - > Eu mandei pro e-mail do PPGCC com meu orientador em cópia//Mas não sei se tem prazo, viu
 
+### Onde ver o histórico?
+
+- Minha UFMG -> Informações Acadêmicas: acesso para alunos da pós-graduação -> Histórico Escolar -> Emitir Histórico Autenticável
+  - [Minha UFMG](https://sistemas.ufmg.br/portal/render.userLayoutRootNode.uP)
+  - [Info Acad: Ac. p. alun. PG](https://sistemas.ufmg.br/iapWeb/index.jsp?nrs=2024711370)
+  - Histórico Escolar
+  - [Emitir Histórico Autenticável](https://sistemas.ufmg.br/iapWeb/historico/historicoescolar/consultar/emitirHistoricoAutenticavel.do)
+
 ## Observações
 
 - Mensagem de Paulo Alvarenga 27/02/2025:
