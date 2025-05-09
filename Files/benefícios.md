@@ -18,6 +18,7 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
     - [Figma](#figma)
     - [Databricks?](#databricks)
     - [AWS Educate](#aws-educate)
+    - [MatLab](#matlab)
   - [Descontos](#descontos)
     - [Spotify](#spotify)
     - [YouTube Music Premium](#youtube-music-premium)
@@ -25,6 +26,7 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
     - [Apple Music + TV](#apple-music--tv)
     - [Microsoft Azure](#microsoft-azure)
     - [Google Cloud](#google-cloud)
+    - [Samsung](#samsung)
 
 ## Acesso completo a benefícios pagos
 
@@ -135,6 +137,14 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
 - **O que ganha:**
   - **To-Do**
 
+### [MatLab](https://www.mathworks.com/products/matlab/student.html)
+
+- **Utilidade:** **To-Do**
+- **O que fazer:**
+  - **To-Do**
+- **O que ganha:**
+  - **To-Do**
+
 ## Descontos
 
 ### [Spotify](https://www.spotify.com/br-pt/student/)
@@ -187,3 +197,11 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
   - **To-Do**
 - **O que ganha:**
   - > Aqui tbm tem uma quantidade de crédito, mas não sei por quanto tempo
+
+### [Samsung](https://www.samsung.com/br/students-offers/)
+
+- **Utilidade:** **To-Do**
+- **O que fazer:**
+  - **To-Do**
+- **O que ganha:**
+  - Desconto
