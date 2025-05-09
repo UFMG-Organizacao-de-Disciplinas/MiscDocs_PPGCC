@@ -4,7 +4,7 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
 
 - [Benefícios por conta institucional e afins](#benefícios-por-conta-institucional-e-afins)
   - [Acesso completo a benefícios pagos](#acesso-completo-a-benefícios-pagos)
-    - [GitHub Copilot](#github-copilot)
+    - [GitHub Education](#github-education)
     - [Autodesk](#autodesk)
     - [Cursor](#cursor)
     - [IDE Jetbrains](#ide-jetbrains)
@@ -23,12 +23,14 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
     - [YouTube Music Premium](#youtube-music-premium)
     - [Adobe](#adobe)
     - [Apple Music + TV](#apple-music--tv)
+    - [Microsoft Azure](#microsoft-azure)
+    - [Google Cloud](#google-cloud)
 
 ## Acesso completo a benefícios pagos
 
-### [GitHub Copilot](https://education.github.com/pack)
+### [GitHub Education](https://education.github.com/pack)
 
-- **Utilidade:** IA daorinha pra poder ajudar a programar no vscode.
+- **Utilidade:** IA daorinha pra poder ajudar a programar no vscode e mais algumas coisas
 - **O que fazer:**
   - Pergunta:
     - > Qual o comprovante vocês usaram para o GitHub Education?
@@ -166,3 +168,22 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
   - **To-Do**
 - **O que ganha:**
   - > Curta 1 mês grátis e, depois, aproveite o preço especial da assinatura para estudantes de R$ 11,90/mês1.
+
+### [Microsoft Azure](https://azure.microsoft.com/pt-br/free/students)
+
+- **Utilidade:** Uns programinhas aí
+- **O que fazer:**
+  - **To-Do**
+- **O que ganha:**
+  - Site:
+    - > Comece com USD$ 100 de crédito Azure
+  - Um camarada da UFMG
+    - > 500 dolares de crédito por 1 ano
+
+### [Google Cloud](https://cloud.google.com/edu/students)
+
+- **Utilidade:** **To-Do**
+- **O que fazer:**
+  - **To-Do**
+- **O que ganha:**
+  - > Aqui tbm tem uma quantidade de crédito, mas não sei por quanto tempo
