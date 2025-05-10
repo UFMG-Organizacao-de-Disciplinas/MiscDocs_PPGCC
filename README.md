@@ -60,8 +60,12 @@
   > O ponto de atenção é que não ocorre todo mês, me parece que é 4 vezes ao ano, precisa confirmar ...
 
 - JV
+
   - É importante lembrar que tem duas situações distintas pro certificado do inglês:
     1. A entrada no mestrado
     2. A conclusão do mestrado
   - No primeiro caso, a apresentação do certificado não é obrigatória e apenas serve para acrescer a nota do ingressante.
   - No segundo caso, a apresentação do certificado é obrigatória e serve para a integralização do mestrado. Geralmente, a prova do CENEX é a mais usualmente feita, principalmente por causa do valor.
+
+- JV
+  - Outra coisa. Se no seu... SIGA? Cipó? Já não sei mais. Se em um deles, em que deveria constar o seu status de inglês e você já enviou seu certificado válido segundo o edital, não precisa se preocupar. A Sônia não tem atualizado lá porque tá pra ser desativado. Quando? Não sabemos, mas na dúvida troca uma ideia com ela.
