@@ -16,6 +16,13 @@
 >
 > E também tem um delay para o email see puxado pelo Google e você ver na sua caixa de entrada do Gmail. Você tem como forçar a sincronização na hora mas é manual. Ou então você espera a sincronização automática que leva algum tempo
 
-## @ufmg
+## @ufmg E @c-comp.mest.ufmg.br
+
+- [Acessar e-mails da UFMG](https://pandorga.grude.ufmg.br/)
 
 ## Listas de email
+
+## @dcc.ufmg.br
+
+- [Acessar e-mails do DCC](https://webmail.dcc.ufmg.br/)
+- [Reencaminhar e-mails do DCC para outro](https://crc.dcc.ufmg.br/doku.php/servicos/email/encaminhar/start)
