@@ -1,5 +1,42 @@
 # Disciplinas
 
+Processe esse PDF
+
+|   # | Código | Vagas PPGCC | Disciplina                                                        | Turma | Carga Horária | Tipo |     Dia |          Horário |
+| --: | ------ | ----------: | ----------------------------------------------------------------- | ----- | ------------- | ---- | ------: | ---------------: |
+|   1 | DCC831 |          40 | TECC: Aprendizado Profundo                                        | PG1   | 60            | OP   | 3a e 5a |      11:05/12:45 |
+|   2 | DCC831 |          30 | TECC: Seminários em Recuperação da Informação e Computação Social | PG2   | 60            | OP   | 2a e 4a |      14:55/16:35 |
+|   3 | DCC831 |          20 | TECC: Mineração de Dados Avançada: Interpretabilidade             | PG3   | 60            | OP   | 3a e 5a |      17:00/18:40 |
+|   4 | DCC831 |          20 | TECC: Heurísticas e Metaheurísticas                               | PG4   | 60            | OP   | 3a e 5a |      14:55/16:35 |
+|   5 | DCC831 |          20 | TECC: Computação Natural                                          | PG5   | 60            | OP   |         | Oferta cancelada |
+|   6 | DCC831 |          20 | TECC: Aprendizado por Reforço                                     | PG6   | 60            | OP   | 3a e 5a |      17:00/18:40 |
+|   7 | DCC831 |          20 | TECC: Grandes Modelos de Linguagem                                | PG7   | 60            | OP   | 3a e 5a |      13:00/14:40 |
+|   8 | DCC831 |          20 | TECC: Fundamentos Estatísticos de Ciência dos Dados A             | PG8   | 60            | OP   | 3a e 5a |      09:25/11:05 |
+|   9 | DCC831 |          20 | TECC: Computação em Nuvem                                         | PG9   | 60            | OP   | 3a e 5a |      13:00/14:40 |
+|  10 | DCC831 |          20 | TECC: Gerenciamento das Redes de Computadores e dos Serviços      | P10   | 60            | OP   | 2a e 4a |      17:00/18:40 |
+|  11 | DCC831 |          20 | TECC: Sistemas Operacionais Avançados                             | P11   | 60            | OP   | 2a e 4a |      17:00/18:40 |
+|  12 | DCC831 |          20 | TECC: Bancos de Dados Avançados                                   | P12   | 60            | OP   | 2a e 4a |      14:55/16:35 |
+|  13 | DCC831 |          20 | TECC: Bancos de Dados Geográficos                                 | P13   | 60            | OP   | 2a e 4a |      13:00/14:40 |
+|  14 | DCC831 |          10 | TECC: Nanocomputação                                              | P14   | 60            | OP   | 2a e 4a |      17:00/18:40 |
+|  15 | DCC831 |           5 | TECC: Recuperação de Informação Musical                           | P15   | 60            | OP   | 2a e 4a |      13:00/14:40 |
+|  16 | DCC831 |          20 | TECC: Processamento de Linguagem Natural                          | P16   | 60            | OP   | 3a e 5a |      17:00/18:40 |
+|  17 | DCC831 |          20 | TECC: Algoritmos Aproximativos                                    | P17   | 60            | OP   | 2a e 4a |      17:00/18:40 |
+|  18 | DCC831 |          20 | TECC: Métodos Formais                                             | P18   | 60            | OP   | 2a e 4a |      13:00/14:40 |
+|  19 | DCC831 |          20 | TECC: Teoria espectral dos grafos                                 | P19   | 60            | OP   | 3a e 5a |      09:25/11:05 |
+|  20 | DCC831 |          20 | TECC: Tópicos Avançados em Programação Competitiva                | P20   | 60            | OP   | 3a e 5a |      17:00/18:40 |
+|  21 | DCC831 |          20 | TECC: Cibersegurança                                              | P21   | 60            | OP   | 3a e 5a |      17:00/18:40 |
+|  22 | DCC831 |          20 | TECC: Programação e Arquitetura de Computadores Paralelos         | P22   | 60            | OP   | 2a e 4a |      17:00/18:40 |
+|  23 | DCC850 |          30 | TECC: Seminários Avançados de Pós‐Graduação I                     | PG1   | 15            | OB   |      6a |      13:00/14:40 |
+|  24 | DCC850 |          20 | TECC: Seminários Avançados de Pós‐Graduação II                    | PG2   | 15            | OB   |      6a |      13:00/14:40 |
+|  25 | DCC851 |          20 | TECC: Seminário dos Grandes Desafios de IHC                       | PG    | 30            | OP   |      5a |      14:55/16:35 |
+|  26 | DCC865 |          40 | Projeto e Análise de Algoritmos                                   | PG    | 60            | OB   | 2a e 4a |      13:00/14:40 |
+|  27 | DCC865 |          40 | Projeto e Análise de Algoritmos                                   | PG1   | 60            | OB   | 2a e 4a |      13:00/14:40 |
+|  28 | DCC890 |          20 | TES: Manutenção e Evolução de Software                            | PG    | 60            | OP   | 2a e 4a |      17:00/18:40 |
+|  29 | DCC904 |          40 | Estágio em Docência I                                             | PG    | 30            | OB   |         |                  |
+|  30 | DCC905 |          40 | Estágio em Docência II                                            | PG    | 30            | OB   |         |                  |
+|  31 | DCC909 |           5 | Ambientes de Computação                                           | PG    | 60            | OP   | 3a e 5a |      14:55/16:35 |
+|  32 | DCC911 |          20 | Robótica Móvel                                                    | PG    | 60            | OP   | 3a e 5a |      13:00/14:40 |
+
 ## Grade Horária Vazia
 
 | Horário Início | Hora Fim | SEG | TER | QUA | QUI | SEX |

@@ -4,6 +4,10 @@
 
 [Link_Regimento]: https://www2.ufmg.br/sods/Sods/Sobre-a-UFMG/Regimento-Geral
 
+- [Como funcionam as disciplinas][Disciplinas]
+
+[Disciplinas]: https://bit.ly/planilhaoppgcc
+
 ## Dúvidas
 
 ### Orientador do mestrado precisa ser do DCC?
