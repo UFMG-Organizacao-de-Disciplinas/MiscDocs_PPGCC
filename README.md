@@ -31,6 +31,12 @@
 
 [Ofertas-SistemasUFMG]: https://sistemas.ufmg.br/iapWeb/matricula/ofertadeatividade/pesquisarturma/solicitarOfertaAtividade.do
 
+### Matrícula
+
+- [Sistemas.ufmg][Matricula-SistemasUFMG]
+
+[Matricula-SistemasUFMG]: https://sistemas.ufmg.br/matriculapos/aluno/aluno.xhtml
+
 ### O que fazer depois de enviar a dissertação?
 
 - > Gente, depois que a gente envia a versão final da dissertação tem mais alguma etapa? Quanto tempo demora até a titulação?
@@ -73,3 +79,7 @@
 
 - JV
   - Outra coisa. Se no seu... SIGA? Cipó? Já não sei mais. Se em um deles, em que deveria constar o seu status de inglês e você já enviou seu certificado válido segundo o edital, não precisa se preocupar. A Sônia não tem atualizado lá porque tá pra ser desativado. Quando? Não sabemos, mas na dúvida troca uma ideia com ela.
+
+### Avaliação Docente
+
+- [Avaliação Docente](https://sistemas.ufmg.br/aluno-grad-avaliacao/acessoquestionarios/acessarQuestionarios.seam)
