@@ -10,6 +10,8 @@ Salas do DCC no ICEx
 - 2022 - Laboratório de acesso livre - W10 - Seg a Sex; 8h às 22h
 - 3004 - Sala da pós graduação - Senha: \*0330p
 
+## [Link das salas](https://www.icex.ufmg.br/icex_novo/minha-salas/)
+
 ## Salas
 
 | Sigla       | Nome Completo                                                |
