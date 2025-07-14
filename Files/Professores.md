@@ -436,7 +436,7 @@
 [Lattes_Crist]: http://lattes.cnpq.br/
 [Lattes_Danie]: http://lattes.cnpq.br/
 [Lattes_Dorgi]: http://lattes.cnpq.br/
-[Lattes_Dougl]: http://lattes.cnpq.br/
+[Lattes_Dougl]: http://lattes.cnpq.br/7640548709008824
 [Lattes_Eduar]: http://lattes.cnpq.br/
 [Lattes_Erick]: http://lattes.cnpq.br/
 [Lattes_FabBe]: http://lattes.cnpq.br/
