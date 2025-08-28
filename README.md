@@ -83,3 +83,14 @@
 ### Avaliação Docente
 
 - [Avaliação Docente](https://sistemas.ufmg.br/aluno-grad-avaliacao/acessoquestionarios/acessarQuestionarios.seam)
+
+## Internet
+
+- UFMG
+- Eduroam
+- DCC-usuarios
+  - Não me lembro onde que eu criei esse cadastro. É o mesmo login do CIPÓ. Mas o login pelo pc foi:
+    - Usuário: nomesobrenome
+    - Senha: uma aleatória que eu criei
+- DCC-visitores
+- DCC-devices
