@@ -87,10 +87,16 @@
 ## Internet
 
 - UFMG
+  - Certificado CA: Usar certificados do sistema;
+    - rsf.ufmg.br
+  - Mesmo login do MinhaUFMG
 - Eduroam
+  - Mesmo login do MinhaUFMG
 - DCC-usuarios
   - Não me lembro onde que eu criei esse cadastro. É o mesmo login do CIPÓ. Mas o login pelo pc foi:
     - Usuário: nomesobrenome
     - Senha: uma aleatória que eu criei
-- DCC-visitores
+- DCC-visitors
+  - ?
 - DCC-devices
+  - ?
