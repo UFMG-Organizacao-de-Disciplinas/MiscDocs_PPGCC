@@ -283,6 +283,19 @@ Paulo Freire
 
 > O que o professor precisa é tomar emprestados os olhos dos seus alunos.
 
+### Retorno por Email
+
+Olá!
+A vocês que estiveram presentes na Oficina sobre "Metodologias de ensino na universidade", compartilhamos:
+
+- o link da avaliação da oficina (quem não preencheu ao final da oficina, pedimos a gentileza de responder, são apenas duas questões).
+  - <https://forms.gle/VYPup6xXsmV8zC3X7>
+- o link com textos em pdf, para vocês aprofundarem os estudos.
+  - <https://drive.google.com/drive/folders/1XdHaXMuFHFMuaPdWIEiWlViW97WawxYU?usp=sharing>
+
+Abraços,
+Zulmira Medeiros
+
 ## Oficina Pedagógica 4: Avaliação da aprendizagem
 
 **Ementa:** Concepções de avaliação na educação. Avaliação como situação de aprendizagem. Instrumentos de avaliação no ensino superior.
