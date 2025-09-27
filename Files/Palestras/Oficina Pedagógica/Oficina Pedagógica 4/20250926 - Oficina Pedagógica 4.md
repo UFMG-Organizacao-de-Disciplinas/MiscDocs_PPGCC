@@ -126,11 +126,19 @@ Seminário - Roleplay
 #### Trabalho em Grupo
 
 - O que é?
+  - Atividades de natureza diversa (escrita, oral, gráfica, corporal, etc) realizada coletivamente.
 - Para que serve?
+  - Desenvolve a **produção coletiva** de conhecimento, assim como o espirito colaborativo.
 - Vantagens
+  - Permite abordar uma diversidade de conteúdo em curto prazo de tempo, assim como a organização de uma turma numerosa.
 - Atenção
+  - Esse procedimento não tira do professor a necessidade de buscar informações para orientar as equipes, nem deve substituir os momentos individuais de aprendizagem.
 - Planejamento
+  - Necessita de uma boa **orientação e acompanhamento**
+  - É importante propor uma série de atividades relacionadas ao conteúdo a ser trabalhado, oferecendo informações sobre fontes de pesquisa e instruções sobre procedimentos necessários para a produção coletiva
+  - Estabeleça **critérios avaliativos** para as dimensões atitudinais e procedimentais (como participação, colaboração), assim como para o conteúdo abordado, sem perder de vista as diversas etapas do **processo e o produto** final.
 - Como analisar e utilizar as informações
+  - De acordo com os resultados obtidos, procure organizar atividades colaborativas com vistas a ampliar as potencialidades ou superar as dificuldades.
 
 Trabalho em grupo como método de aprendizado pros alunos.
 
