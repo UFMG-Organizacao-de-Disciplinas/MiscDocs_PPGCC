@@ -1,5 +1,7 @@
 # 20250926 - Oficina Pedagógica - Zulmira
 
+- [Avaliação](https://docs.google.com/forms/d/e/1FAIpQLSePffsVHnKbLLhDMyJzJTcPTfKTt5VId85kj95cO3sf-8W1vQ/viewform)
+
 ## Oficina Pedagógica 2: Planejamento no ensino superior
 
 **Ementa:** As diferentes instâncias do planejamento na educação. Detalhamentos no planejamento de curso, de disciplina e de aula. Elaboração de plano de curso. Planejamento e prática docente.
@@ -14,7 +16,7 @@
 
 ---
 
-[Cheguei tarde]
+(Cheguei tarde)
 
 ---
 
@@ -260,3 +262,25 @@ JV: Fiquei muito confuso com essa ideia. Não entendi bem como seria e nem como 
 A nota também tem uma função somativa
 
 ### Referências
+
+## Arquivos
+
+### `Links - Vídeos e Artigos`
+
+- [Aula sobre Avaliação ministrada para a turma de estágio didático do ICB pela profa. Vânia Leite, da UERJ.][Link1]
+- [24º Fórum Integração Docente: "Avaliação Formativa Online", com os professores Zacarias Jaegger (UFRJ) e Júlio Balarini (UFMG)][Link2]
+- [Manual de avaliação da aprendizagem no curso de graduação em Medicina][Link3]
+- [O exame clínico objetivo estruturado nos cursos de saúde no Brasil de 2013 a 2023][Link4]
+- [Ventanias e o esperançar: currículo e avaliação na formação docente em tempos de ensino remoto emergencial][Link5]
+- [Portfólio acadêmico: um método de reflexão acerca da prática médica em um momento pandêmico][Link6]
+- [Práticas avaliativas na disciplina de Anatomia Humana: o que os professores têm feito?][Link7]
+- [Flipped classroom adaptada ao ensino presencial e remoto: estudo de caso no ensino de química][Link8]
+
+[Link1]: https://www.youtube.com/watch?v=W4dA8tDTkd0
+[Link2]: https://www.youtube.com/watch?v=oCKPUd5eNSc
+[Link3]: https://periodicos.ufmg.br/index.php/rdes/article/view/1980
+[Link4]: https://periodicos.ufmg.br/index.php/rdes/article/view/51311
+[Link5]: https://periodicos.ufmg.br/index.php/rdes/article/view/51810
+[Link6]: https://periodicos.ufmg.br/index.php/rdes/article/view/47944
+[Link7]: https://periodicos.ufmg.br/index.php/rdes/article/view/45980
+[Link8]: https://periodicos.ufmg.br/index.php/rdes/article/view/48821
