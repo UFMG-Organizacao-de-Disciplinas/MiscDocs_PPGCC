@@ -30,3 +30,37 @@
 [Res-2020/075-pdf]: https://dcc.ufmg.br/wp-content/uploads/2020/12/Resolucao075-2020.pdf
 [Res-2021/150-pdf]: https://dcc.ufmg.br/wp-content/uploads/150_criterios-relatorio-anual-docente.pdf
 [Res-2021/150-Anexo-pdf]: https://dcc.ufmg.br/wp-content/uploads/Anexo-150-2021.pdf
+
+## [Outras Resoluções](https://ppgcc.dcc.ufmg.br/resolucoes/)
+
+| Resolução (ano) | Resolução (sequência) | Assunto                                                                                                                            |
+| --------------: | :-------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+|            2024 | 002                   | Distribuição de bolsas e normatização do acúmulo de bolsas                                                                         |
+|            2023 | 005                   | Comissão Permanente de Autoavaliação e Planejamento Estratégico                                                                    |
+|            2023 | 002                   | Credenciamento docentes do PPGCC                                                                                                   |
+|            2021 | 006                   | Oferta de disciplinas por docentes do programa                                                                                     |
+|            2021 | 005                   | Valores para auxílio financeiro aos alunos do PPGCC                                                                                |
+|            2020 | 008                   | Detalhamento Comissão Permanente Mestrado                                                                                          |
+|            2020 | 007                   | Complementação de bolsas de estudos CAPES/PROEX                                                                                    |
+|            2020 | 004                   | Qualificação Pandemia                                                                                                              |
+|            2020 | 002                   | Participação remota em defesas (CoVID-19)                                                                                          |
+|            2019 | 011                   | Prorrogação por curto prazo                                                                                                        |
+|            2019 | 009                   | Comissão de Internacionalização do PPGCC                                                                                           |
+|            2019 | 002                   | Critérios para composição de comissões examinadoras de defesas                                                                     |
+|            2019 | 001                   | Critérios para aprovação no exame de língua inglesa                                                                                |
+|            2018 | 007                   | Primeiro Estágio de Qualificação para alunos de doutorado                                                                          |
+|            2018 | 005                   | Critérios para manutenção de bolsa de estudos durante estágio ou visita técnica em outra instituição com complementação financeira |
+|            2016 | 001                   | Prazo para encaminhamento de matérias ao Colegiado                                                                                 |
+|            2015 | 005                   | Normas para reprodução da versão final de tese e dissertação                                                                       |
+|            2012 | 005                   | Revisão de provas do 1º estágio do exame de qualificação                                                                           |
+|            2012 | 004                   | Plano de qualificação - 1º estágio do exame de qualificação                                                                        |
+|            2011 | 013                   | Produção técnica para defesa de tese de doutorado                                                                                  |
+|            2011 | 002                   | Critérios para concessão de bolsas para alunos que recebem complementação financeira                                               |
+|            2009 | 007                   | Estágio em Docência                                                                                                                |
+|            2009 | 006                   | Prorrogação de Prazo - Defesas de dissertação de mestrado e Tese de doutorado                                                      |
+|            2008 | 009                   | Normas para entrega de versão final de projeto de tese, tese e dissertação                                                         |
+|            2007 | 010                   | Pré-matrícula dos alunos do PPGCC                                                                                                  |
+|            2006 | 007                   | Matérias e respectivas ementas do 1º Estágio de Qualificação para alunos de doutorado                                              |
+|            2005 | 010                   | Revalidação de créditos de Cursos de Pós-Graduação Latu Sensu                                                                      |
+|            2005 | 001                   | Disciplina obrigatória para o mestrado                                                                                             |
+|            1999 | 001                   | Auxílio Financeiro                                                                                                                 |
