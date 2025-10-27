@@ -1,5 +1,26 @@
 # MiscDocs_PPGCC
 
+## Table of Contents
+
+- [MiscDocs_PPGCC](#miscdocs_ppgcc)
+  - [Table of Contents](#table-of-contents)
+  - [Documentos](#documentos)
+  - [Dúvidas](#dúvidas)
+    - [Orientador do mestrado precisa ser do DCC?](#orientador-do-mestrado-precisa-ser-do-dcc)
+    - [Onde ver as notas?](#onde-ver-as-notas)
+    - [Onde selecionar as disciplinas?](#onde-selecionar-as-disciplinas)
+    - [Matrícula](#matrícula)
+    - [O que fazer depois de enviar a dissertação?](#o-que-fazer-depois-de-enviar-a-dissertação)
+    - [Por onde enviar a versão final?](#por-onde-enviar-a-versão-final)
+    - [Onde ver o histórico?](#onde-ver-o-histórico)
+    - [Onde ver documentos da CAPES?](#onde-ver-documentos-da-capes)
+  - [Observações](#observações)
+  - [Certificação de inglês](#certificação-de-inglês)
+    - [Avaliação Docente](#avaliação-docente)
+  - [Internet](#internet)
+
+## Documentos
+
 - [Regimento Geral][Link_Regimento]
 
 [Link_Regimento]: https://www2.ufmg.br/sods/Sods/Sobre-a-UFMG/Regimento-Geral
