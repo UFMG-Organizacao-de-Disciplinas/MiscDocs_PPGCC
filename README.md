@@ -55,6 +55,10 @@
   - Histórico Escolar
   - [Emitir Histórico Autenticável](https://sistemas.ufmg.br/iapWeb/historico/historicoescolar/consultar/emitirHistoricoAutenticavel.do)
 
+### Onde ver documentos da CAPES?
+
+- [Aqui](https://scba.capes.gov.br/scba/processo/meusProcessos.seam)
+
 ## Observações
 
 - Mensagem de Paulo Alvarenga 27/02/2025:
