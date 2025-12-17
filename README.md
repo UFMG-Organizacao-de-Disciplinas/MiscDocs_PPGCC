@@ -2,10 +2,11 @@
 
 ## Table of Contents
 
-- [MiscDocs_PPGCC](#miscdocs_ppgcc)
+- [MiscDocs\_PPGCC](#miscdocs_ppgcc)
   - [Table of Contents](#table-of-contents)
   - [Documentos](#documentos)
   - [Dúvidas](#dúvidas)
+    - [Comentários sobre disciplinas e ofertas antigas](#comentários-sobre-disciplinas-e-ofertas-antigas)
     - [Orientador do mestrado precisa ser do DCC?](#orientador-do-mestrado-precisa-ser-do-dcc)
     - [Onde ver as notas?](#onde-ver-as-notas)
     - [Onde selecionar as disciplinas?](#onde-selecionar-as-disciplinas)
@@ -30,6 +31,10 @@
 [Disciplinas]: https://bit.ly/planilhaoppgcc
 
 ## Dúvidas
+
+### Comentários sobre disciplinas e ofertas antigas
+
+- [Planilha de disciplinas do PPGCC](https://docs.google.com/spreadsheets/d/1b3ZAhH9FYQv4KxN5b-7h_hkhnZd1tILS3Ue60rOGJ-o)
 
 ### Orientador do mestrado precisa ser do DCC?
 
