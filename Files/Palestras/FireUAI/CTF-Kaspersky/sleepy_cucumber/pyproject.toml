@@ -1,0 +1,27 @@
+[project]
+name = "sleepy-cucumber"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = "3.10.12"
+dependencies = [
+    "dill (==0.4.0)",
+    "joblib (==1.5.2)",
+    "numpy (==2.2.6)",
+    "pandas (==2.3.2)",
+    "python-dateutil (==2.9.0.post0)",
+    "pytz (==2025.2)",
+    "scikit-learn (==1.7.1)",
+    "scipy (==1.15.3)",
+    "six (==1.17.0)",
+    "threadpoolctl (==3.6.0)",
+    "tzdata (==2025.2)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

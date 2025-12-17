@@ -1,0 +1,51 @@
+30/08/2025                        
+13:03:50,45                        
+
+Microsoft Windows [versão 10.0.26100.4946]
+                              
+SCRIPT_DIR:  B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\     
+PROGRAM_DIR: B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64    
+SCRIPT:      "B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\areca.bat"               
+LAUNCHER:    B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\bin\areca_run.bat 
+ARGUMENTS:                  
+                              
+ERROR 2: "java.exe" was not found in "Embedded jdk"
+ERROR 2: "java.exe" was not found in "Embedded jre"
+ERROR 2: "java.exe" was not found in "ARECA_HOME\jdk"
+ERROR 2: "java.exe" was not found in "ARECA_HOME\jre"
+ERROR 2: "java.exe" was not found in "JAVA_HOME"
+ERROR 3: "java.exe" was not found in "C:\Java"
+ERROR 3: "java.exe" was not found in "C:\Program Files (X86)\Java"
+SCRIPT:                    areca_run.bat
+SCRIPT_DIR:                B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\bin\
+SCRIPT_PATH:               B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64
+
+ARECA_HOME:                
+JAVA_HOME:                 
+JAVA_PATH:                 C:\Program Files\Java\latest\jre-1.8\bin\
+JAVA_EXE:                  C:\Program Files\Java\latest\jre-1.8\bin\java.exe
+JAVAW_EXE:                 C:\Program Files\Java\latest\jre-1.8\bin\\javaw.exe
+GDK_NATIVE_WINDOWS:        true
+
+JAVA:                      C:\Program Files\Java\latest\jre-1.8\bin\java.exe
+CLASSPATH:                 B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\config;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\translations;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\areca.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\mail.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\activation.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\commons-net-1.4.1.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\jakarta-oro-2.0.8.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\jsch.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\org.eclipse.core.commands_3.2.0.I20060605-1400.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\org.eclipse.equinox.common_3.2.0.v20060603.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\org.eclipse.jface_3.2.0.I20060605-1400.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\swt.jar;B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\commons-codec-1.4.jar
+ARECA_DIR:                 B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64
+LIBRARY_PATH:              B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\lib\;C:\Program Files\Java\latest\jre-1.8\bin\\lib;C:\Program Files\Java\latest\jre-1.8\bin\\jni
+
+P0:                         "B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret\areca-8.2.4-windows-x86-64\bin\areca_run.bat"
+P1_REQUIRED_LAUNCHER_CLASS: com.application.areca.launcher.gui.Launcher
+P2_OPTIONAL:                
+P3_OPTIONAL:                
+P4_OPTIONAL:                
+P5_OPTIONAL:                
+P6_OPTIONAL:                
+P7_OPTIONAL:                
+P8_OPTIONAL:                
+P9_OPTIONAL:                
+P10_OPTIONAL:               
+P11_OPTIONAL:               
+P12_OPTIONAL:               
+
+java version "1.8.0_461"
+Java(TM) SE Runtime Environment (build 1.8.0_461-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.461-b11, mixed mode)

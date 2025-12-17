@@ -1,0 +1,44 @@
+
+25-08-30 13:03 - INFO - System informations :
+25-08-30 13:03 - INFO - ----------------------------------------
+25-08-30 13:03 - INFO - Version : 8.2.4
+25-08-30 13:03 - INFO - Build ID : 5454828092862496675
+25-08-30 13:03 - INFO - Available Memory : 910 MB
+25-08-30 13:03 - INFO - OS Name : Windows 11 - 10.0
+25-08-30 13:03 - INFO - Java Virtual Machine : Java(TM) SE Runtime Environment - 1.8.0_461-b11 (64 bits) - Oracle Corporation
+25-08-30 13:03 - INFO - File encoding : windows-1252
+25-08-30 13:03 - INFO - Language : pt
+25-08-30 13:03 - INFO - Framework properties : {filetool.delay=200, ftp.debug=false, repository.access.ftp.cache=true, memory.safety.margin=0.3, gzip.enabled=true, sftp.preferred.auth.override=, threadlocal.log.level=2, encryption.keygen.iterations=96731, filetool.buffer.size=200000, zip.crc.enable=true, fs.max.filepath.check.force=-1, delta.debug=false, fs.max.filepath=256, zip.mv.digits=2, fs.use.buffer=true, memory.base.kb=20480, cache.preload=false, fs.max.cached.mountpoints=2000, repository.check.consistency=true, ftp.max.proxies=4, delta.quickhash.modulus=68228191, encryption.keygen.algorithm=PBKDF2WithHmacSHA1, posix.def.metadata.accessor.command=ls, memory.by.entry.kb=2, repository.access.hd.cache.depth=2, ftp.use.cache=true, ftp.noop.delay=30000, file.hash.algorithm=SHA, zip.buffer.size=2048, hash.cache.size=200, log.default.history=10, ftp.cache.size=100, os.browsers=firefox, opera, konqueror, epiphany, mozilla, netscape, file.streams.debug=true, sftp.timeout=5000, delta.quickhash.multiplier=98813, repository.access.hd.cache=false, threadlocal.log.max.messages=200, viewer.handler.impl=com.myJava.system.viewer.DesktopViewerHandler, fs.tmp.directory=, log.level=5, delta.hashmap.size=10007, smtp.debug=false, hash.use.cache=true, encryption.keygen.salt.encoding=UTF-8, posix.def.metadata.accessor.args=-ald1, encryption.keygen.salt=ù%${{²]}}[|`è?$£^¤*!§:/..;;,,_?"\°à@@%µ, fs.cache.debug=false, backup.debug=false, repository.access.ftp.cache.depth=2, filesystem.accessor.impl=com.myJava.file.metadata.windows.WindowsMetaDataAccessor, sse.protocols=SSL, TLS, TLS-P, TLS-C, repository.access.debug=false, fs.buffer.size=10240}
+25-08-30 13:03 - INFO - Available translations : br, cn, cs, da, de, en, es, fr, hu, it, ja, nl, pt, ru, sv, tw
+25-08-30 13:03 - INFO - File metadata accessor : com.myJava.file.metadata.windows.WindowsMetaDataAccessor
+25-08-30 13:03 - INFO - ----------------------------------------
+25-08-30 13:03 - INFO - User preferences :
+25-08-30 13:03 - INFO - ----------------------------------------
+25-08-30 13:03 - INFO - [ws.history.1] = [B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret]
+25-08-30 13:03 - INFO - [ws.history.0] = [B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/]
+25-08-30 13:03 - INFO - [mainframe.y] = [-9]
+25-08-30 13:03 - INFO - [dnt.msg.day] = [9277]
+25-08-30 13:03 - INFO - [mainframe.x] = [-9]
+25-08-30 13:03 - INFO - [mainframe.mainsplitpos] = [30]
+25-08-30 13:03 - INFO - [mainframe.width] = [1938]
+25-08-30 13:03 - INFO - [launch.count] = [2]
+25-08-30 13:03 - INFO - [lastworkspace] = [C:/Users/joaov/.areca/workspace]
+25-08-30 13:03 - INFO - [mainframe.leftsplitpos] = [70]
+25-08-30 13:03 - INFO - [mainframe.height] = [1038]
+25-08-30 13:03 - INFO - [mainframe.maximized] = [true]
+25-08-30 13:03 - INFO - [ws.history.2] = [C:/Users/joaov/.areca/workspace]
+25-08-30 13:03 - INFO - ----------------------------------------
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/bin
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/config
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/help
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/icons
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/jdk
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/jre
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/lib
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/logs
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/plugins
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/tools
+25-08-30 13:03 - INFO - Reading content of B:/Pastas do sistema/Downloads/FireUAI/CTF-Kaspersky/OSecret/areca-8.2.4-windows-x86-64/translations
+25-08-30 13:03 - INFO - Path : [B:\Pastas do sistema\Downloads\FireUAI\CTF-Kaspersky\OSecret] - 1 items loaded.
