@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [MiscDocs\_PPGCC](#miscdocs_ppgcc)
+- [MiscDocs_PPGCC](#miscdocs_ppgcc)
   - [Table of Contents](#table-of-contents)
   - [Documentos](#documentos)
   - [Dúvidas](#dúvidas)
@@ -10,7 +10,7 @@
     - [Orientador do mestrado precisa ser do DCC?](#orientador-do-mestrado-precisa-ser-do-dcc)
     - [Onde ver as notas?](#onde-ver-as-notas)
     - [Onde selecionar as disciplinas?](#onde-selecionar-as-disciplinas)
-    - [Matrícula](#matrícula)
+    - [Matrícula / Elaborar proposta](#matrícula--elaborar-proposta)
     - [O que fazer depois de enviar a dissertação?](#o-que-fazer-depois-de-enviar-a-dissertação)
     - [Por onde enviar a versão final?](#por-onde-enviar-a-versão-final)
     - [Onde ver o histórico?](#onde-ver-o-histórico)
@@ -57,7 +57,7 @@
 
 [Ofertas-SistemasUFMG]: https://sistemas.ufmg.br/iapWeb/matricula/ofertadeatividade/pesquisarturma/solicitarOfertaAtividade.do
 
-### Matrícula
+### Matrícula / Elaborar proposta
 
 - [Sistemas.ufmg][Matricula-SistemasUFMG]
 
