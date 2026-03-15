@@ -27,6 +27,7 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
     - [Microsoft Azure](#microsoft-azure)
     - [Google Cloud](#google-cloud)
     - [Samsung](#samsung)
+    - [Uber one\Uber eats](#suber)
 
 ## Acesso completo a benefícios pagos
 
@@ -205,3 +206,15 @@ Aqui pretendo listar os benefícios que você consegue obter por conta do seu e-
   - **To-Do**
 - **O que ganha:**
   - Desconto
+
+### [Uber One](https://www.uber.com/)
+
+- **Utilidade:** Corridas e delivery de comida/mercado
+- **O que fazer:**
+  - É necessário ser estudante universitário elegível e ter 18 anos ou mais.
+- **O que ganha:**
+  - Assinatura com desconto.
+  - Receba 6% de volta em créditos Uber One em viagens elegíveis.
+  - Frete grátis e até 10% de desconto em pedidos elegíveis no Uber Eats (pedido mínimo de US$ 15).
+  - Até 10% de desconto em lojas participantes que não sejam de supermercado.
+  - Entrega sem custo adicional e 5% de desconto em supermercados participantes (pedido mínimo de US$ 35).
