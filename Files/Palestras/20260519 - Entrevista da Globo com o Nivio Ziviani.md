@@ -86,4 +86,4 @@
 
 ---
 
-- Adriano Ferreira
+- Adriano Ferreira / Adriano César Machado Pereira
